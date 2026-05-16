@@ -9,6 +9,10 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
+[Aegisub Project Garbage]
+Scroll Position: 768
+Active Line: 816
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Roboto Medium,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.9,0,2,60,60,69,1
@@ -857,5 +861,5 @@ Dialogue: 0,0:23:30.57,0:23:32.79,对白 日语,Reid,0,0,0,,名乗る名なん�
 Dialogue: 1,0:23:30.57,0:23:32.79,对白 中文,Reid,0,0,0,,我可没什么值得报的名字
 Dialogue: 0,0:23:33.81,0:23:35.08,对白 日语,Reid,0,0,0,,俺は ただの
 Dialogue: 1,0:23:33.81,0:23:35.08,对白 中文,Reid,0,0,0,,我只是个
-Dialogue: 0,0:23:36.03,0:23:40.02,场面文本,Reid,0,0,0,,{\an5\bord0\shad0\fscx350\fscy350\pos(960,954)\org(-200000,900)\frz0.003\c&H1F00C8&\t(0,1250,0.3,\fscx400\fscy400)}挥{\frz-0.003\c&HFEFEFE&\fscx320\fscy320\t(0,1250,0.3,\fscx366\fscy366)}棒{\frz0.002\fscx250\fscy310\t(0,1250,0.3,\fscx286\fscy354)}的
-Dialogue: 0,0:23:36.03,0:23:40.02,场面文本,Reid,0,0,0,,{\an8\p1\pos(168,1)\c&H010000&\org(-200000,900)\frz0.0005\t(0,1250,0.3,\frz-0.0016)}m 790 1044 l 795 997 917 997 917 1020 1032 1020 1032 1000 1136 1000 1136 1044
+Dialogue: 0,0:23:36.03,0:23:40.02,场面文本,Reid,0,0,0,,{\an5\bord0\shad0\fscx350\fscy350\pos(960,954)\org(-200000,900)\frz0.003\c&H1F00C8&\t(0,1250,0.3,\fscx400\fscy400)\fn 微软雅黑}挥{\frz-0.003\c&HFEFEFE&\fscx320\fscy320\t(0,1250,0.3,\fscx366\fscy366)}棒{\frz0.002\fscx250\fscy310\t(0,1250,0.3,\fscx286\fscy354)}的
+Dialogue: 0,0:23:36.03,0:23:40.02,场面文本,Reid,0,0,0,,{\an8\p1\c&H010000&\org(-200000,900)\frz-0.0005\t(0,1250,0.3,\frz-0.0028\fscx100.5)\pos(187,-8)}m 770 1104 l 770 1006 916 1006 916 1030 1038 1030 1038 1006 1148 1006 1147 1104
