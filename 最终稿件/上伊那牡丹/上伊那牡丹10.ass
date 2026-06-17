@@ -9,17 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: 10.mkv
-Video File: 10.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 482
-Active Line: 497
-Video Position: 29345
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED,华文中宋,40,&H00FFFFFF,&H000000FF,&H005B4EF0,&H00544AF8,0,0,0,0,100,100,0,0,1,2,2,9,10,10,10,1
