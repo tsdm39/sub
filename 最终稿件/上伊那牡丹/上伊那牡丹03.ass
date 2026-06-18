@@ -11,17 +11,6 @@ PlayResY: 1080
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: 上伊那牡丹
-Audio File: 上伊娜牡丹_03_代理.mp4
-Video File: 上伊娜牡丹_03_代理.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 558
-Active Line: 572
-Video Position: 34016
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 中文,微软雅黑,70,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,-1,0,0,0,100,100,1,0,1,2.2,0,2,10,10,50,1
