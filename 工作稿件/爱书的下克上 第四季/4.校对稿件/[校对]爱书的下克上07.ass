@@ -11,16 +11,6 @@ LayoutResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Audio File: A:/下克上_07_代理.mp4
-Video File: A:/下克上_07_代理.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 165
-Active Line: 177
-Video Position: 11487
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 名片 - 内容,方正中雅宋_GBK,40,&H00F4F5F5,&H000000FF,&H00000000,&H003D3902,-1,0,0,0,100,100,3,0,1,1,4,8,10,10,10,1
