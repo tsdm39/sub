@@ -10,7 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Active Line: 2
+Active Line: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,9 +29,9 @@ Style: 场面文本2,微软雅黑,120,&H00FC6BC1,&H000000FF,&H00000000,&H0000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:01.10,0:00:04.10,对白 日语,,0,0,0,,part1
 Dialogue: 0,0:00:04.10,0:00:12.48,对白 日语,,0,0,0,,うぅ… ハァ ハァ…
-Dialogue: 1,0:00:04.10,0:00:12.48,对白 中文,,0,0,0,,11111
+Dialogue: 1,0:00:04.10,0:00:12.48,对白 中文,,0,0,0,,2222
 Dialogue: 0,0:00:12.48,0:00:16.58,对白 日语,,0,0,0,,息が… 苦しい…
-Dialogue: 1,0:00:12.48,0:00:16.58,对白 中文,,0,0,0,,
+Dialogue: 1,0:00:12.48,0:00:16.58,对白 中文,,0,0,0,,11111
 Dialogue: 0,0:00:16.58,0:00:20.12,对白 日语,,0,0,0,,珊瑚：いつもほど お熱は高くはありませんのに
 Dialogue: 1,0:00:16.58,0:00:20.12,对白 中文,,0,0,0,,
 Dialogue: 0,0:00:20.12,0:00:24.16,对白 日语,,0,0,0,,玲琳様 それほどに おつろうございますか?
