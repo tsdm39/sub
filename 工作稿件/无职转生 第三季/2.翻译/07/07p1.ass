@@ -13,17 +13,6 @@ YCbCr Matrix: TV.601
 LayoutResX: 640
 LayoutResY: 360
 
-[Aegisub Project Garbage]
-Last Style Storage: 无职转生
-Audio File: Mushoku Tensei S3 07 代理[08Dd7bbc].mp4
-Video File: Mushoku Tensei S3 07 代理[08Dd7bbc].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 237
-Active Line: 204
-Video Position: 10686
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,10,10,30,1
