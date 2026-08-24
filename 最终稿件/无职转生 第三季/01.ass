@@ -15,9 +15,9 @@ LayoutResY: 360
 
 [Aegisub Project Garbage]
 Video Zoom Percent: 0.500000
-Scroll Position: 30
-Active Line: 39
-Video Position: 3598
+Scroll Position: 34
+Active Line: 49
+Video Position: 3969
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,7 +88,7 @@ Dialogue: 0,0:02:34.64,0:02:36.34,对白 日语 上,提摩西,0,0,0,,皆 当座�
 Dialogue: 0,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(2358,0)\an5\c&H121519&\be0\fs170\pos(927.2,940.4)}Ⅲ
 Dialogue: 1,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(1732,0)\an5\be0\bord2\fscy140\fs70\pos(927.2,942)}{\c&H021B24&}无{\c&H0A89B5&}职{\c&H086E91&}转{\c&H000000&}生
 Dialogue: 1,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(1575,0)\an8\c&H0BC8F9&\shad0\bord0.5\be2\fs50\pos(822.4,987.2)}到了{\c&H000000&}异世界{\c&H0BC8F9&}就拿出{\c&H000000&}真本事
-Dialogue: 0,0:02:44.14,0:02:48.94,声明,人员表,0,0,0,,{\fad(1218,317)\an8\c&H00FFFF&}翻译{\b0\c&HFFFFFF&} tyounai 饺子 咏 {\c&H00FFFF&} 时轴 {\b0\c&HFFFFFF&} andreo {\c&H00FFFF&} 校对{\b0\c&HFFFFFF&} 阿没歪诶 Lomenot {\c&H00FFFF&}后期&监制{\b0\c&HFFFFFF&} Lomenot {\c&H00FFFF&}压制{\b0\c&HFFFFFF&} H.Coo
+Dialogue: 0,0:02:44.14,0:02:48.94,声明,人员表,0,0,0,,{\fad(1218,317)\an8\c&H00FFFF&}翻译{\b0\c&HFFFFFF&} tyounai 饺子 咏 {\c&H00FFFF&} 时轴 {\b0\c&HFFFFFF&} andreo {\c&H00FFFF&} 校对{\b0\c&HFFFFFF&} 阿没歪诶 Lomenot {\c&H00FFFF&}后期&监制{\b0\c&HFFFFFF&} Lomenot {\c&H00FFFF&}压制{\b0\c&HFFFFFF&} Timq
 Dialogue: 1,0:03:07.75,0:03:10.62,对白 中文,加尔,0,0,0,,哟 基列奴 你还活着啊?
 Dialogue: 0,0:03:07.75,0:03:10.62,对白 日语,加尔,0,0,0,,よぉ ギレーヌ 生きてやがったか?
 Dialogue: 1,0:03:11.13,0:03:12.92,对白 中文,基列奴,0,0,0,,好久不见了 师父
