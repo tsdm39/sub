@@ -9,16 +9,6 @@ YCbCr Matrix: TV.601
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: ../../../../../../工作流07 [F52d87f9].mp4
-Video File: ../../../../../../工作流07 [F52d87f9].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 499
-Active Line: 508
-Video Position: 21655
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.4,2,10,10,20,1
