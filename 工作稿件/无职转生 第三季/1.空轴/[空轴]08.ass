@@ -13,13 +13,6 @@ YCbCr Matrix: TV.601
 LayoutResX: 640
 LayoutResY: 360
 
-[Aegisub Project Garbage]
-Last Style Storage: 无职转生
-Video Zoom Percent: 0.500000
-Scroll Position: 462
-Active Line: 469
-Video Position: 24403
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,10,10,30,1
