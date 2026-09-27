@@ -13,9 +13,6 @@ YCbCr Matrix: TV.709
 LayoutResX: 640
 LayoutResY: 360
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,10,10,30,1
@@ -72,21 +69,21 @@ Dialogue: 1,0:02:27.64,0:02:28.16,对白 中文,剑圣学徒们,0,0,0,,谁啊?
 Dialogue: 0,0:02:27.64,0:02:28.16,对白 日语,剑圣学徒们,0,0,0,,誰だ?
 Dialogue: 1,0:02:28.16,0:02:29.08,对白 中文 上,剑圣学徒们,0,0,0,,那个
 Dialogue: 0,0:02:28.16,0:02:29.08,对白 日语 上,剑圣学徒们,0,0,0,,あれって
-Dialogue: 1,0:02:29.54,0:02:30.54,对白 中文,提摩西,800,0,0,,那是?
-Dialogue: 0,0:02:29.54,0:02:30.54,对白 日语,提摩西,800,0,0,,あれは?
-Dialogue: 1,0:02:29.67,0:02:41.18,艾莉丝角色曲 中文,OP,0,0,0,,{\an1}愿你待我彼时归来 身侧相伴
-Dialogue: 2,0:02:29.67,0:02:41.18,艾莉丝角色曲 日语,OP,0,0,0,,{\an1}{\kf77}隣{\kf79}で{\kf24}生{\kf21}き{\kf26}た{\kf31}い{\k49}{\kf21}そ{\kf26}れ{\kf26}ま{\kf71}で {\kf50}待っ{\kf49}て{\kf53}い{\kf196}て{\kf51}ほ{\kf47}し{\kf180}い
-Dialogue: 1,0:02:30.92,0:02:32.25,对白 中文,提摩西,800,0,0,,基列奴大人?
-Dialogue: 0,0:02:30.92,0:02:32.25,对白 日语,提摩西,800,0,0,,ギレーヌ殿?
-Dialogue: 1,0:02:33.08,0:02:34.36,对白 中文,提摩西,800,0,0,,训练暂停!
-Dialogue: 0,0:02:33.08,0:02:34.36,对白 日语,提摩西,800,0,0,,稽古止め!
-Dialogue: 1,0:02:34.64,0:02:36.34,对白 中文,提摩西,800,0,0,,所有人 去候客厅
-Dialogue: 0,0:02:34.64,0:02:36.34,对白 日语,提摩西,800,0,0,,皆 当座の間へ
+Dialogue: 1,0:02:29.54,0:02:30.54,对白 中文 上,提摩西,0,0,0,,那是?
+Dialogue: 0,0:02:29.54,0:02:30.54,对白 日语 上,提摩西,0,0,0,,あれは?
+Dialogue: 1,0:02:29.67,0:02:41.18,艾莉丝角色曲 中文,OP,0,0,0,,{\fad(0,7904)\an2}愿你待我彼时归来 身侧相伴
+Dialogue: 2,0:02:29.67,0:02:41.18,艾莉丝角色曲 日语,OP,0,0,0,,{\fad(0,7904)\an2}{\kf77}隣{\kf79}で{\kf24}生{\kf21}き{\kf26}た{\kf31}い{\k49}{\kf21}そ{\kf26}れ{\kf26}ま{\kf71}で {\kf50}待っ{\kf49}て{\kf53}い{\kf196}て{\kf51}ほ{\kf47}し{\kf180}い\N
+Dialogue: 1,0:02:30.92,0:02:32.25,对白 中文 上,提摩西,0,0,0,,基列奴大人?
+Dialogue: 0,0:02:30.92,0:02:32.25,对白 日语 上,提摩西,0,0,0,,ギレーヌ殿?
+Dialogue: 1,0:02:33.08,0:02:34.36,对白 中文 上,提摩西,0,0,0,,训练暂停!
+Dialogue: 0,0:02:33.08,0:02:34.36,对白 日语 上,提摩西,0,0,0,,稽古止め!
+Dialogue: 1,0:02:34.64,0:02:36.34,对白 中文 上,提摩西,0,0,0,,所有人 去候客厅
+Dialogue: 0,0:02:34.64,0:02:36.34,对白 日语 上,提摩西,0,0,0,,皆 当座の間へ
 Dialogue: 0,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(1000,0)\c&HFFFFFF&\3c&H6FEAF1&\bord8\blur1\t(1000,2000,\c&H070C0D&)\t(500,1500,\3c&HFFFFFF&\bord5\blur3)\an5\fscx500\fscy550\pos(955.2,920)}Ⅲ
 Dialogue: 1,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(1732,0)\fsp-3\an5\be0\bord2\fax-0.2\fscx220\fscy220\fs70\3c&HFFFFFF&\pos(970.2,915)\org(-200000,922)}{\c&H021B24&}无{\t(1350,2200,\c&H059FD5&)\frz-0.005}职{\frz0}转{\c&H000000&\frz-0.005}生
 Dialogue: 1,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\an2\fax-0.2\bord1\fscx70\fscy70\pos(855.4,1044)\1c&H000000&\3c&HFFFFFF&\1a&Hff&\3a&Hff&}{\t(600,1500,\1a&H00&\3a&H00&)}到了{\1a&Hff&\3a&Hff&\t(0,1500,\1a&H00&\3a&H00&)\fscx90\fscy90\c&H01B3F5&}异世界{\1a&Hff&\3a&Hff&\t(1450,1600,\1a&H00&\3a&H00&)\fscx70\fscy70\c&H000000&}就拿出{\1a&Hff&\3a&Hff&\t(0,1500,\1a&H00&\3a&H00&)\fscx90\fscy90\c&H01B3F5&}真本事
 Dialogue: 0,0:02:44.14,0:02:48.94,场面文本,标题,0,0,0,,{\fad(1200,0)\p1\c&HD8B5A6&\pos(852.579,1042.431)\fscx105\fscy90\1a&H60&\blur12\an2}m 0 0 l 0 40 l 300 40 l 300 0
-Dialogue: 0,0:02:44.14,0:02:48.94,声明,人员表,0,0,0,,{\fad(1218,317)\an8\c&H00FFFF&}翻译{\b0\c&HFFFFFF&} tyounai 饺子 咏 {\c&H00FFFF&} 时轴 {\b0\c&HFFFFFF&} andreo {\c&H00FFFF&} 校对{\b0\c&HFFFFFF&} 阿没歪诶 Lomenot {\c&H00FFFF&}后期&监制{\b0\c&HFFFFFF&} Lomenot {\c&H00FFFF&}压制{\b0\c&HFFFFFF&} Timq
+Dialogue: 0,0:02:44.14,0:02:48.94,声明,人员表,0,0,0,,{\fad(1218,317)\an8\c&H00FFFF&}翻译{\b0\c&HFFFFFF&} tyounai 饺子 咏 {\c&H00FFFF&} 时轴 {\b0\c&HFFFFFF&} andreo {\c&H00FFFF&} 校对{\b0\c&HFFFFFF&} 阿没歪诶 Lomenot {\c&H00FFFF&}后期{\b0\c&HFFFFFF&} andreo Lomenot  {\c&H00FFFF&}监制{\b0\c&HFFFFFF&} Lomenot {\c&H00FFFF&}压制{\b0\c&HFFFFFF&} Timq
 Dialogue: 1,0:03:07.75,0:03:10.62,对白 中文,加尔,0,0,0,,哟 基列奴 你还活着啊?
 Dialogue: 0,0:03:07.75,0:03:10.62,对白 日语,加尔,0,0,0,,よぉ ギレーヌ 生きてやがったか?
 Dialogue: 1,0:03:11.13,0:03:12.92,对白 中文,基列奴,0,0,0,,好久不见了 师父
