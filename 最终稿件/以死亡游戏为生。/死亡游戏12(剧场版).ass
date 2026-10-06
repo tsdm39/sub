@@ -8,18 +8,20 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
+LayoutResX: 1920
+LayoutResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: 不才恶女
 Audio File: A:/a1/[SubsPlease] Shibou Yuugi de Meshi wo Kuu. - 12 (1080p) [D2C7A9D8].mkv
 Video File: A:/a1/[SubsPlease] Shibou Yuugi de Meshi wo Kuu. - 12 (1080p) [D2C7A9D8].mkv
-Video Zoom Percent: 0.750000
-Scroll Position: 1111
-Active Line: 1119
-Video Position: 122675
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: 声明,Source Han Sans SC Medium,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0.2,8,10,10,10,1
 Style: 对白 日语,Source Han Sans,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,20,1
 Style: 对白 中文,Source Han Sans SC Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,-1,0,0,0,100,100,1,0,1,2.2,0,2,10,10,60,1
@@ -27,11 +29,11 @@ Style: 歌词 中文,Source Han Sans,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Style: 歌词 日语,Source Han Sans,48,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,50,0,50,1
 Style: 场面文本,Source Han Sans SC Medium,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,7,20,10,20,1
 Style: 注释,Source Han Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,-1,0,0,0,100,100,2,0,1,1.5,0,7,20,20,60,1
-Style: 歌词 日语2,Source Han Sans,48,&H00A69B68,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,50,0,50,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:57.35,0:01:00.35,注释,,0,0,0,,Part 1
+Dialogue: 0,0:00:00.00,0:00:09.99,声明,,0,0,0,,本字幕由　{\c&H00FFFF&}TSDM字幕组{\c&HFFFFFF&}　制作   仅供学习与交流使用 禁止任何形式的商业用途\N本组字幕均遵循{\c&H00FFFF&} CC BY-NC-SA 4.0{\c&HFFFFFF&} 协议
+Dialogue: 0,0:00:00.00,0:00:09.99,声明,,0,0,0,,{\an2}本字幕存在{\c&H00FFFF&}AGI{\c&HFFFFFF&}生成内容\N翻译：{\c&H00FFFF&}GPT 6.0 Astra{\c&HFFFFFF&} 时轴：{\c&H00FFFF&}Gemini 3.1 Pro{\c&HFFFFFF&} 校对：{\c&H00FFFF&}Claude Fable 5.1{\c&HFFFFFF&} 监制：{\c&H00FFFF&}GPT 6.1 Sol{\c&HFFFFFF&}
 Dialogue: 1,0:00:59.29,0:01:02.47,对白 中文,,0,0,0,,那是一个晴朗的日子
 Dialogue: 0,0:00:59.29,0:01:02.47,对白 日语,,0,0,0,,よく晴れた日だった
 Dialogue: 0,0:01:04.13,0:01:06.62,对白 日语,,0,0,0,,‎心地よい風が吹いていて
@@ -620,7 +622,6 @@ Dialogue: 1,0:34:10.32,0:34:14.62,对白 中文,,0,0,0,,拜托你了 哪怕只�
 Dialogue: 0,0:34:10.32,0:34:14.62,对白 日语,,0,0,0,,‎お願いですから それで少しでも…
 Dialogue: 1,0:34:17.66,0:34:20.29,对白 中文,,0,0,0,,来满足我吧
 Dialogue: 0,0:34:17.66,0:34:20.29,对白 日语,,0,0,0,,‎私を満たしてください
-Comment: 0,0:58:06.84,0:58:09.30,注释,,0,0,0,,Part 3
 Dialogue: 1,0:58:06.84,0:58:09.80,对白 中文,,0,0,0,,总之 我确认一下…
 Dialogue: 0,0:58:06.84,0:58:09.80,对白 日语,,0,0,0,,一応 確認するが…
 Dialogue: 1,0:58:09.80,0:58:10.76,对白 中文,,0,0,0,,你师傅⸺
@@ -1211,7 +1212,7 @@ Dialogue: 0,1:28:54.65,1:28:57.57,对白 日语,,0,0,0,,はい 大丈夫です�
 Dialogue: 1,1:28:58.48,1:28:59.65,对白 中文,,0,0,0,,怎么了?
 Dialogue: 0,1:28:58.48,1:28:59.65,对白 日语,,0,0,0,,‎なんです?
 Dialogue: 4,1:29:02.87,1:29:19.34,歌词 中文,,0,0,0,,{\an1}我将逝去
-Dialogue: 4,1:29:02.87,1:29:19.34,歌词 日语,,0,0,0,,{\k158}{\an7}私{\k496}は{\k123}{\k325}逝{\k545}く
+Dialogue: 4,1:29:02.87,1:29:19.34,歌词 日语,,0,0,0,,{\kf158}{\an7}私{\kf496}は{\kf123}{\kf325}逝{\kf545}く
 Dialogue: 2,1:29:04.74,1:29:06.41,注释,,180,0,110,,{\an2\pos(1041.33,959.33)}CLOUDY BEACH
 Dialogue: 1,1:29:04.74,1:29:06.41,对白 中文,,0,0,0,,是关于这次阴云海滩⸺
 Dialogue: 0,1:29:04.74,1:29:06.41,对白 日语,,0,0,0,,今回のクラウディビーチと⸺
