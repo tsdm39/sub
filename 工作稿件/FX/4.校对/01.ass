@@ -11,6 +11,17 @@ PlayResY: 1080
 LayoutResX: 640
 LayoutResY: 360
 
+[Aegisub Project Garbage]
+Last Style Storage: FX
+Audio File: A:/a1/FX战士代理 01 [99D53D33].mp4
+Video File: A:/a1/FX战士代理 01 [99D53D33].mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 788
+Active Line: 812
+Video Position: 33927
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 日语,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.4,0,2,10,10,30,1
@@ -854,7 +865,7 @@ Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an8\c&
 Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an8\c&H0028FC&\3c&HFFFFFF&\shad0\pos(393.33,694)}宽\N松\N软\N萌\N的
 Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an8\c&H0028FC&\3c&HFFFFFF&\shad0\pos(341.33,737.33)}F\NX\N动\N画
 Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an2\c&H0028FC&\3c&HFFFFFF&\shad0\pos(568,1070.67)}感谢您的观看!
-Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an9\c&H0028FC&\3c&HFFFFFF&\shad0\pos(1649.34,1024)}♥最喜欢碳酸♥
+Dialogue: 0,0:23:35.02,0:23:45.03,华康勘亭流W9,结尾插画,0,0,0,,{\an9\c&H0028FC&\3c&HFFFFFF&\shad0\pos(1649.34,1024)}最喜欢碳酸
 Dialogue: 2,0:23:35.02,0:23:45.03,方正剪纸简体,结尾插画,0,0,0,,{\an9\c&H0028FC&\3c&H502628&\shad0\fs100\frz5\pos(648.66,140.67)}哈
 Dialogue: 2,0:23:35.02,0:23:45.03,方正剪纸简体,结尾插画,0,0,0,,{\an9\c&H0028FC&\3c&H502628&\shad0\fs100\frz-10\pos(1396.53,156.8)}哈
 Dialogue: 2,0:23:35.02,0:23:45.03,方正剪纸简体,结尾插画,0,0,0,,{\an1\c&H0028FC&\3c&HFFFFFF&\shad0\fs100\frz5\pos(516.01,842.4)}哈
