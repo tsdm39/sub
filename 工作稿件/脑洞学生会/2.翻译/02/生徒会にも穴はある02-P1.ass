@@ -11,16 +11,6 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: 脑洞学生会02.mkv
-Video File: 脑洞学生会02.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 204
-Active Line: 317
-Video Position: 12085
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Yu Gothic,92,&H00FFFFFF,&H000000FF,&H00000000,&H7F000000,-1,0,0,0,100,100,0,0,1,4,4,1,224,0,86,1
