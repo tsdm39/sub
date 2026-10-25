@@ -11,16 +11,6 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: FX
-Audio File: A:/a1/[SubsPlease] FX Senshi Kurumi-chan - 02 (1080p) [A7262AB4].mkv
-Video File: A:/a1/[SubsPlease] FX Senshi Kurumi-chan - 02 (1080p) [A7262AB4].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 1
-Video Position: 249
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 对白 中文,梦源黑体 SC W20,70,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,2,10,10,68,1
