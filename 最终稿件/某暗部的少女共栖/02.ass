@@ -12,11 +12,15 @@ LayoutResX: 1920
 LayoutResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: op主歌词 中文
 Audio File: ../../workspace/toaru/02/[SubsPlease] Toaru Anbu no Item - 02 (1080p) [1E91703F].mkv
 Video File: ../../workspace/toaru/02/[SubsPlease] Toaru Anbu no Item - 02 (1080p) [1E91703F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
+Scroll Position: 216
+Active Line: 42
+Video Position: 4011
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,8 +36,9 @@ Style: 对白 中文 外语,梦源宋体 CN,75,&H00FFFFFF,&H000000FF,&H00000000,
 Style: Ruby,Tinos,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,10,10,10,1
 Style: Signs,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,30,30,18,0
 Style: 标题简化,Source Han Serif CN Heavy,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
-Style: 歌词 日语,Yuji Syuku,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1.5,8,10,10,30,1
-Style: 歌词 中文,霞鹜文楷,70,&H00FFFFFF,&H000000FF,&H00000000,&H004A2E3A,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: 歌词 日语,Yuji Syuku,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1.5,8,10,10,30,1
+Style: 歌词 中文,LXGW WenKai,70,&H00FFFFFF,&H000000FF,&H00000000,&H004A2E3A,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+Style: 场面文本,梦源宋体 CN,50,&H00000000,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -907,8 +912,8 @@ Dialogue: 0,0:22:33.20,0:22:35.65,歌词 日语,,0,0,0,,主役である限り
 Dialogue: 0,0:22:33.20,0:22:35.65,歌词 中文,,0,0,0,,仍在重演罪孽
 Dialogue: 0,0:22:37.34,0:22:40.91,歌词 日语,,0,0,0,,身を焦がす激情に任せて
 Dialogue: 0,0:22:37.34,0:22:40.91,歌词 中文,,0,0,0,,不如放任激情如火焚身
-Dialogue: 0,0:22:41.80,0:22:45.20,Ruby,,0,0,0,,{\pos(922,40)}そ ら
-Dialogue: 3,0:22:41.80,0:22:45.20,Ruby,,0,0,0,,{\pos(1044,42)}つらぬ
+Dialogue: 0,0:22:41.80,0:22:45.20,Ruby,,0,0,0,,{\pos(928.4,48)}そ ら
+Dialogue: 3,0:22:41.80,0:22:45.20,Ruby,,0,0,0,,{\pos(1034.4,46.8)}つらぬ
 Dialogue: 0,0:22:41.80,0:22:45.20,歌词 日语,,0,0,0,,{\pos(954,30)}閃光! 宇宙を穿いて
 Dialogue: 1,0:22:41.80,0:22:45.20,歌词 中文,,0,0,0,,闪光! 一击刺破天穹
 Dialogue: 0,0:22:45.20,0:22:48.30,歌词 日语,,0,0,0,,この狂気を刻みつけろ
@@ -919,7 +924,7 @@ Dialogue: 0,0:22:51.58,0:22:54.38,歌词 日语,,0,0,0,,崩されていくよう
 Dialogue: 0,0:22:51.58,0:22:54.38,歌词 中文,,0,0,0,,崩坏亦在劫难逃
 Dialogue: 0,0:22:54.38,0:22:57.53,歌词 日语,,0,0,0,,絶望程度では終わらせない
 Dialogue: 0,0:22:54.38,0:22:57.53,歌词 中文,,0,0,0,,劫火怖畏人心
-Dialogue: 0,0:22:57.53,0:23:00.61,Ruby,,0,0,0,,{\pos(960,38)}現実
+Dialogue: 0,0:22:57.53,0:23:00.61,Ruby,,0,0,0,,{\pos(960,45)}現実
 Dialogue: 0,0:22:57.53,0:23:00.61,歌词 日语,,0,0,0,,それ以上の悪夢を見せよう
 Dialogue: 0,0:22:57.53,0:23:00.61,歌词 中文,,0,0,0,,照见颠倒梦想
 Dialogue: 0,0:23:00.61,0:23:04.00,歌词 日语,,0,0,0,,生き残ることよりも
