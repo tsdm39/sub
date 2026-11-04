@@ -16,7 +16,7 @@ Audio File: ../../workspace/toaru/02/[SubsPlease] Toaru Anbu no Item - 02 (1080p
 Video File: ../../workspace/toaru/02/[SubsPlease] Toaru Anbu no Item - 02 (1080p) [1E91703F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.625000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -467,7 +467,7 @@ Dialogue: 0,0:11:13.74,0:11:17.74,对白 日语,Mugino,0,0,0,,普通のアンチ
 Dialogue: 1,0:11:13.74,0:11:17.74,对白 中文,Mugino,0,0,0,,又是那群「警备员」那我们三分钟之内撤
 Dialogue: 1,0:11:13.74,0:11:17.74,Ruby,Mugino,0,0,0,,{\pos(830,960)}Anti-Skill
 Dialogue: 0,0:11:18.24,0:11:22.04,对白 日语,Frenda,0,0,0,,えっ!? ちょっと結局 冷凍睡眠の連中はどうすんの?
-Dialogue: 1,0:11:18.24,0:11:22.04,对白 中文,Frenda,0,0,0,,诶!? 等等 说到底 还在冷冻睡眠的其他人怎么办?
+Dialogue: 1,0:11:18.24,0:11:22.04,对白 中文,Frenda,0,0,0,,欸!? 等等 说到底 还在冷冻睡眠的其他人怎么办?
 Dialogue: 0,0:11:22.04,0:11:23.87,对白 日语,Frenda,0,0,0,,他にもたくさんいるけど!
 Dialogue: 1,0:11:22.04,0:11:23.87,对白 中文,Frenda,0,0,0,,还有很多人啊!
 Dialogue: 0,0:11:25.46,0:11:28.38,Ruby,,0,0,0,,{\an7\p1\c&H202A1A&\blur5\bord0\shad0\pos(0,0)}m 1342 165 l 1718 165 1718 270 1342 270
@@ -827,7 +827,7 @@ Dialogue: 1,0:20:13.69,0:20:15.44,对白 中文,Frenda,0,0,0,,那 就以这件�
 Dialogue: 0,0:20:15.44,0:20:18.61,对白 日语,Frenda,0,0,0,,あちこち違うジャンルで 味変していきますか
 Dialogue: 1,0:20:15.44,0:20:18.61,对白 中文,Frenda,0,0,0,,再搭点各种不同风格的衣服换换口味吧
 Dialogue: 0,0:20:18.61,0:20:20.53,对白 日语,Kinuhata,0,0,0,,えっ? 超それって どういう…
-Dialogue: 1,0:20:18.61,0:20:20.53,对白 中文,Kinuhata,0,0,0,,诶? 超这是 什么意思…
+Dialogue: 1,0:20:18.61,0:20:20.53,对白 中文,Kinuhata,0,0,0,,欸? 超这是 什么意思…
 Dialogue: 0,0:20:20.53,0:20:23.45,对白 日语,Frenda,0,0,0,,すみません 結局 試着しているこれ
 Dialogue: 1,0:20:20.53,0:20:23.45,对白 中文,Frenda,0,0,0,,你好 说到底 她现在试穿的这件
 Dialogue: 0,0:20:23.45,0:20:27.04,对白 日语,Frenda,0,0,0,,このまま着ていくから お会計だけお願いします
@@ -857,7 +857,7 @@ Dialogue: 1,0:20:54.30,0:20:55.68,对白 中文 上,Takitsubo,0,0,0,,能打扰�
 Dialogue: 0,0:20:55.68,0:20:57.03,对白 日语,,0,0,0,,何々?
 Dialogue: 1,0:20:55.68,0:20:57.03,对白 中文,,0,0,0,,怎么了?
 Dialogue: 0,0:20:57.03,0:20:59.07,对白 日语,Kinuhata,0,0,0,,えっ なんですか 超いきなり!
-Dialogue: 1,0:20:57.03,0:20:59.07,对白 中文,Kinuhata,0,0,0,,诶 怎么了 超突然!
+Dialogue: 1,0:20:57.03,0:20:59.07,对白 中文,Kinuhata,0,0,0,,欸 怎么了 超突然!
 Dialogue: 0,0:20:59.07,0:21:01.15,对白 日语,Kinuhata,0,0,0,,そのハサミ どっから出したんですか?
 Dialogue: 1,0:20:59.07,0:21:01.15,对白 中文,Kinuhata,0,0,0,,你那剪刀是从哪掏出来的?
 Dialogue: 0,0:21:02.62,0:21:03.20,Default,,0,0,0,,{\an7\p1\c&HF3F3F3&\blur5\bord0\shad0\pos(0,0)\clip}m 836 414 l 1004 372 1034 418 833 474
@@ -868,7 +868,7 @@ Dialogue: 1,0:21:05.33,0:21:07.50,对白 中文,Woman,0,0,0,推定,这个 十分
 Dialogue: 0,0:21:07.83,0:21:11.62,对白 日语,Woman,0,0,0,,お店のリーダーでは認証できぬらしくて
 Dialogue: 1,0:21:07.83,0:21:11.62,对白 中文,Woman,0,0,0,,店里的读卡器好像识别不了这张卡
 Dialogue: 0,0:21:11.62,0:21:15.09,对白 日语,Frenda,0,0,0,,えっ? 結局 機材の故障とかじゃないわけ?
-Dialogue: 1,0:21:11.62,0:21:15.09,对白 中文,Frenda,0,0,0,,诶? 说到底 是设备故障了吗?
+Dialogue: 1,0:21:11.62,0:21:15.09,对白 中文,Frenda,0,0,0,,欸? 说到底 是设备故障了吗?
 Dialogue: 0,0:21:15.09,0:21:18.13,对白 日语,Frenda,0,0,0,,それか IC部分の不具合とか?
 Dialogue: 1,0:21:15.09,0:21:18.13,对白 中文,Frenda,0,0,0,,还是芯片接触不良?
 Dialogue: 0,0:21:18.13,0:21:21.63,对白 日语,Woman,0,0,0,,それが どっちも違うみたいでぇ
