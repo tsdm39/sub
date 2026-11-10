@@ -11,15 +11,6 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: D:/sub/workspace/FX/04/FX战士代理 04 [F89CC7E7].mkv
-Video File: D:/sub/workspace/FX/04/FX战士代理 04 [F89CC7E7].mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Scroll Position: 274
-Active Line: 285
-Video Position: 29512
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
