@@ -11,6 +11,16 @@ YCbCr Matrix: TV.709
 LayoutResX: 1920
 LayoutResY: 1080
 
+[Aegisub Project Garbage]
+Audio File: ../../../workspace/FX/02/FX战士代理 02 [A7262ab4].mp4
+Video File: ../../../workspace/FX/02/FX战士代理 02 [A7262ab4].mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 1178
+Active Line: 1190
+Video Position: 33927
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
@@ -1230,10 +1240,10 @@ Dialogue: 1,0:23:29.63,0:23:31.73,对白 中文,久留美,0,0,0,,不要擅自帮
 Dialogue: 0,0:23:29.63,0:23:31.73,对白 日语,久留美,0,0,0,,勝手に損切りしないでよ
 Dialogue: 1,0:23:31.73,0:23:34.30,对白 中文,久留美,0,0,0,,不要斩断我们家人间的羁绊啊！
 Dialogue: 0,0:23:31.73,0:23:34.30,对白 日语,久留美,0,0,0,,家族の絆を断ち切らないで!
-Dialogue: 0,0:23:35.02,0:23:45.03,华康海报体W12,text (bottom left),0,0,0,,{\c&H000000&\fs110\3c&HFFFFFF&\bord2\frz345.1\org(1735,416)\pos(1637,582)}地{\3c&HFFFFFF&}
-Dialogue: 0,0:23:35.02,0:23:45.03,华康海报体W12,text (bottom left),0,0,0,,{\c&H000000&\fs110\3c&HFFFFFF&\bord2\org(1737,406)\frz14.43\pos(1739,560)}下{\3c&HFFFFFF&}
+Dialogue: 2,0:23:35.02,0:23:45.03,华康海报体W12,text (bottom left),0,0,0,,{\c&H000000&\fs110\3c&HFFFFFF&\bord2\frz345.1\org(1735,416)\pos(1637,582)}地{\3c&HFFFFFF&}
+Dialogue: 2,0:23:35.02,0:23:45.03,华康海报体W12,text (bottom left),0,0,0,,{\c&H000000&\fs110\3c&HFFFFFF&\bord2\org(1737,406)\frz14.43\pos(1739,560)}下{\3c&HFFFFFF&}
 Dialogue: 0,0:23:35.02,0:23:45.03,对白 日语,text (bottom left),0,0,0,,{\pos(288,1070)\c&H000000&\\3c&HFFFFFF&\bord3}插画: ちょぼらうにょぽみ
 Comment: 0,0:23:35.02,0:23:45.03,对白 日语,text (bottom left),0,0,0,,{\pos(288,1070)\c&H000000&\\3c&HFFFFFF&\bord3}插画: ちょぼらうにょぽみ
 Dialogue: 0,0:23:35.02,0:23:45.03,方正剪纸简体,text (bottom left),0,0,0,,{\c&H000000&\3c&HFFFFFF&\bord5\fs36\pos(244,678)\frz13.72}没\N事\N吧
 Dialogue: 0,0:23:35.02,0:23:45.03,方正剪纸简体,text (bottom left),0,0,0,,{\c&H000000&\\3c&HFFFFFF&\bord5\fs36\frz15.22\pos(95,700)}饭\N真\N好\N吃
-Dialogue: 0,0:23:35.02,0:23:45.03,遮罩,text (bottom left),0,0,0,,{\p1\c&HFFFFFF&\pos(184,110)}m 1826 436 l 1736 400 1668 400 1544 400 1498 406 1500 456 1512 510 1510 536 1526 562 1562 584 1576 598 1636 614 1700 622 1730 622 1720 606 1734 600 1818 574 1838 558 1848 534 1858 516 1864 508 1866 494 1866 468
+Dialogue: 0,0:23:35.02,0:23:45.03,遮罩,text (bottom left),0,0,0,,{\an5\p1\c&HFFFFFF&\pos(184,110)}m 1826 436 l 1736 400 1668 400 1544 400 1498 406 1500 456 1512 510 1510 536 1526 562 1562 584 1576 598 1636 614 1700 622 1730 622 1720 606 1734 600 1818 574 1838 558 1848 534 1858 516 1864 508 1866 494 1866 468
