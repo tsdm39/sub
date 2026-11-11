@@ -17,9 +17,9 @@ Video File: A:/a1/工作流04.tmp.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 204
-Active Line: 219
-Video Position: 23098
+Scroll Position: 93
+Active Line: 106
+Video Position: 18277
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -139,7 +139,7 @@ Dialogue: 1,0:12:27.98,0:12:33.07,对白 中文,Mugino,0,0,0,,不管正式录用
 Dialogue: 0,0:12:33.43,0:12:36.64,对白 日语,Mugino,0,0,0,,この工具箱の中から 気に入った道具を選んで
 Dialogue: 1,0:12:33.43,0:12:36.64,对白 中文,Mugino,0,0,0,,从这个工具箱里 挑个喜欢的道具
 Dialogue: 0,0:12:36.64,0:12:39.95,对白 日语,Mugino,0,0,0,,そこのおっさんを死なない程度に潰してもらえる?
-Dialogue: 1,0:12:36.64,0:12:39.95,对白 中文,Mugino,0,0,0,,能不能帮我把那个大叔弄到崩溃 但不至于死掉的程度？
+Dialogue: 1,0:12:36.64,0:12:39.95,对白 中文,Mugino,0,0,0,,能不能帮我把那个大叔弄到崩溃 但不至于死掉的程度？{*不跟原文的话 可以意译为 能不能帮我把那边那个大叔弄个半死？}
 Dialogue: 0,0:12:40.27,0:12:42.27,对白 日语,Mugino,0,0,0,,お肉を 柔らかくするだけで
 Dialogue: 1,0:12:40.27,0:12:42.27,对白 中文,Mugino,0,0,0,,只要把肉变软就好
 Dialogue: 0,0:12:42.27,0:12:44.64,对白 日语,Mugino,0,0,0,,聞き出す前に死なせちゃだめよ
