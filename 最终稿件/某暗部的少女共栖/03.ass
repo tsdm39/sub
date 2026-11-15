@@ -46,6 +46,7 @@ Style: ED_Ruby,Tinos,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.65,声明,,0,0,0,,{\frz0}本字幕由{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}制作  仅供学习与交流使用  禁止任何形式的商业用途\N翻译:AuroraAkie 花绿青 流光  校对:小花  时间轴:炸鸡柳  后期:Timq  压制:草莓挞  监制:小花
 Dialogue: 0,0:00:00.73,0:00:06.99,对白 日语,Hanano,0,0,0,,  うぅ…第15学区の複合ビル フィフティーンベルズ
 Dialogue: 1,0:00:00.73,0:00:06.99,对白 中文,Hanano,0,0,0,,唔…第十五学区的综合大楼「十五声铃响」
 Comment: 0,0:00:02.94,0:00:02.94,注释,,0,0,0,,p1
