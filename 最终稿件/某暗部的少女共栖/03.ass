@@ -18,9 +18,9 @@ Video File: ../../workspace/toaru/03/工作流03 [A5FEB2B6].mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 102
-Active Line: 104
-Video Position: 4685
+Scroll Position: 833
+Active Line: 844
+Video Position: 33462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,7 +46,7 @@ Style: ED_Ruby,Tinos,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:06.65,声明,,0,0,0,,{\frz0}本字幕由{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}制作  仅供学习与交流使用  禁止任何形式的商业用途\N翻译:AuroraAkie 花绿青 流光  校对:小花  时间轴:炸鸡柳  后期:Timq  压制:草莓挞  监制:小花
+Dialogue: 0,0:00:00.00,0:00:12.12,声明,,0,0,0,,{\frz0}本字幕由{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}制作  仅供学习与交流使用  禁止任何形式的商业用途\N翻译:AuroraAkie 花绿青 流光  校对:小花  时间轴:炸鸡柳  后期:Timq  压制:草莓挞  监制:小花
 Dialogue: 0,0:00:00.73,0:00:06.99,对白 日语,Hanano,0,0,0,,  うぅ…第15学区の複合ビル フィフティーンベルズ
 Dialogue: 1,0:00:00.73,0:00:06.99,对白 中文,Hanano,0,0,0,,唔…第十五学区的综合大楼「十五声铃响」
 Comment: 0,0:00:02.94,0:00:02.94,注释,,0,0,0,,p1
@@ -57,7 +57,7 @@ Dialogue: 0,0:00:12.47,0:00:16.68,对白 日语,Hanano,0,0,0,,私を新しい仲
 Dialogue: 1,0:00:12.47,0:00:16.68,对白 中文,Hanano,0,0,0,,会接纳我为新伙伴的…
 Dialogue: 0,0:00:17.73,0:00:18.81,对白 日语,Hanano,0,0,0,,{\pos(960,1066)}アイテム
 Dialogue: 1,0:00:17.73,0:00:18.81,对白 中文,Hanano,0,0,0,,{\pos(960,1032)}「道具」
-Dialogue: 1,0:00:17.73,0:00:18.50,Ruby,Hanano,0,0,0,,{\pos(958,974)}ITEM
+Dialogue: 1,0:00:17.73,0:00:18.79,Ruby,Hanano,0,0,0,,{\pos(958,974)}ITEM
 Dialogue: 0,0:00:19.84,0:00:22.64,对白 日语,Hanano,0,0,0,,1 ここの最上階に行き…
 Dialogue: 1,0:00:19.84,0:00:22.64,对白 中文,Hanano,0,0,0,,第一步 去顶楼…
 Dialogue: 0,0:00:23.44,0:00:25.76,对白 日语,Hanano,0,0,0,,2 仲間と合流
@@ -611,7 +611,7 @@ Dialogue: 1,0:13:47.94,0:13:52.89,对白 中文,Hanano,0,0,0,,靠这些能判断
 Dialogue: 0,0:13:53.00,0:13:54.69,对白 日语,Mugino,0,0,0,,問題発生中でしょ?
 Dialogue: 1,0:13:53.00,0:13:54.69,对白 中文,Mugino,0,0,0,,人家正焦头烂额呢吧?
 Dialogue: 0,0:13:55.23,0:14:01.98,对白 日语,Mugino,0,0,0,,原因を特定するために 暗部絡みの領域まで 不自然に情報収集しまくった 保険会社を探れば
-Dialogue: 1,0:13:55.23,0:14:01.98,对白 中文,Mugino,0,0,0,,为了查明原因 只要找行为反常 正在收集与暗部相关的情报保险公司
+Dialogue: 1,0:13:55.23,0:14:01.98,对白 中文,Mugino,0,0,0,,为了查明原因 只要找行为反常 正在收集与暗部相关情报的保险公司
 Dialogue: 0,0:14:02.03,0:14:05.00,对白 日语,Mugino,0,0,0,,一社に絞れるはずよ ねっ フレンダ
 Dialogue: 1,0:14:02.03,0:14:05.00,对白 中文,Mugino,0,0,0,,应该就能锁定到一家了 对吧 芙兰达
 Comment: 1,0:14:01.88,0:14:04.89,Ruby,Mugino,0,0,0,,
@@ -890,7 +890,7 @@ Dialogue: 0,0:23:09.78,0:23:12.35,歌词 日语,,0,0,0,,崩されていくよう
 Dialogue: 0,0:23:09.78,0:23:12.35,歌词 中文,,0,0,0,,崩坏亦在劫难逃
 Dialogue: 0,0:23:12.35,0:23:15.51,歌词 日语,,0,0,0,,絶望程度では終わらせない
 Dialogue: 0,0:23:12.35,0:23:15.51,歌词 中文,,0,0,0,,劫火怖畏人心
-Dialogue: 0,0:23:15.64,0:23:18.69,Ruby,,0,0,0,,{\pos(960,40)}現実
+Dialogue: 0,0:23:15.64,0:23:18.69,Ruby,,0,0,0,,{\pos(960,40)}現 実
 Dialogue: 0,0:23:15.64,0:23:18.69,歌词 日语,,0,0,0,,それ以上の悪夢を見せよう
 Dialogue: 0,0:23:15.64,0:23:18.69,歌词 中文,,0,0,0,,照见颠倒梦想
 Dialogue: 0,0:23:18.73,0:23:22.14,歌词 日语,,0,0,0,,生き残ることよりも
