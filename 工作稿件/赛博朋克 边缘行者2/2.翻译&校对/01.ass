@@ -12,13 +12,15 @@ LayoutResX: 1920
 LayoutResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: FX
 Audio File: A:/a1/cp2/01代理.mp4
 Video File: A:/a1/cp2/01代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 1
-Video Position: 317
+Scroll Position: 865
+Active Line: 873
+Video Position: 38286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,6 +30,8 @@ Style: 对白 日语 上,Dream Han Sans J W20,46,&H00FFFFFF,&H000000FF,&H0000000
 Style: 对白 中文 上,梦源黑体 SC W20,68,&H00FFFFFF,&H000000FF,&H00000000,&H0000FFFF,0,0,0,0,100,100,1,0,1,1.4,0,8,10,10,60,1
 Style: 注释,梦源黑体 SC W20,40,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,1,0,1,1.7,0,7,30,30,30,1
 Style: 场面文本,梦源宋体 CN,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: 歌词 英语,Dream Han Sans J W20,46,&H00AA7271,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,25,25,30,1
+Style: 歌词 中文,Dream Han Sans HC W20,46,&H00AA7271,&H000000FF,&H00AA7271,&H00000000,0,0,0,0,100,100,0,0,1,0.8,0.05,7,25,25,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -568,8 +572,8 @@ Dialogue: 1,0:14:42.59,0:14:45.38,对白 中文,,0,0,0,,那个时候 你已经�
 Dialogue: 0,0:14:45.47,0:14:48.30,对白 日语,,0,0,0,,あんたが ちゃんとしてれば エミリーは…
 Dialogue: 1,0:14:45.47,0:14:48.30,对白 中文,,0,0,0,,要是你没发神经 艾米莉就不会…
 Dialogue: 0,0:14:49.47,0:14:51.72,对白 日语,,0,0,0,,おい ミゲル
-Dialogue: 0,0:14:50.40,0:14:51.72,对白 日语 上,,0,0,0,,触んな…
 Dialogue: 1,0:14:49.47,0:14:51.72,对白 中文,,0,0,0,,喂 米格尔
+Dialogue: 0,0:14:50.40,0:14:51.72,对白 日语 上,,0,0,0,,触んな…
 Dialogue: 1,0:14:50.40,0:14:51.72,对白 中文 上,,0,0,0,,别碰我…
 Dialogue: 0,0:14:52.73,0:14:54.10,对白 日语,,0,0,0,,ミゲル 俺は…
 Dialogue: 1,0:14:52.73,0:14:54.10,对白 中文,,0,0,0,,米格尔 我…
@@ -869,3 +873,40 @@ Dialogue: 1,0:24:16.08,0:24:17.12,对白 中文,,0,0,0,,阿维达？
 Dialogue: 1,0:24:17.21,0:24:19.12,场面文本,,0,0,0,,{\pos(1132,443)}「来电 阿维达」
 Dialogue: 0,0:24:31.22,0:24:32.14,对白 日语,,0,0,0,,アヴィダ！
 Dialogue: 1,0:24:31.22,0:24:32.14,对白 中文,,0,0,0,,阿维达！
+Comment: 0,0:25:14.42,0:25:22.36,歌词 英语,,0,0,0,,ED START
+Dialogue: 0,0:25:22.36,0:25:25.01,歌词 英语,,0,0,0,,Didn't mean to {\c&H634C80&}sound {\c&HAA7271&}arrogant 
+Dialogue: 0,0:25:22.36,0:25:25.01,歌词 中文,,0,0,0,,我无意显得{\c&H2C2322&}如此{\c&HAA7271&}傲慢
+Dialogue: 0,0:25:25.01,0:25:29.42,歌词 英语,,0,0,0,,S{\c&H634C80&}udden{\c&HAA7271&}ly, we don't {\c&H634C80&}feel{\c&HAA7271&} the same
+Dialogue: 0,0:25:25.01,0:25:29.42,歌词 中文,,0,0,0,,只是{\c&H634C80&}恍然{\c&HAA7271&}间 你{\c&H2C2322&}我{\c&HAA7271&}已不再{\c&H634C80&}心{\c&H2C2322&}意{\c&HAA7271&}相通
+Dialogue: 0,0:25:29.42,0:25:32.19,歌词 英语,,0,0,0,,All I {\c&H634C80&}need{\c&HAA7271&}ed was to get it str{\c&H634C80&}aight
+Dialogue: 0,0:25:29.42,0:25:32.19,歌词 中文,,0,0,0,,我{\c&H634C80&}想{\c&HAA7271&}要的 只是把{\c&H2C2322&}一切{\c&HAA7271&}说个明白
+Dialogue: 0,0:25:32.19,0:25:36.67,歌词 英语,,0,0,0,,How I feel isn't com{\c&H634C80&}plica{\c&HAA7271&}ted
+Dialogue: 0,0:25:32.19,0:25:36.67,歌词 中文,,0,0,0,,我的{\c&H634C80&}心意{\c&HAA7271&}并不{\c&H2C2322&}复{\c&HAA7271&}杂
+Dialogue: 0,0:25:36.67,0:25:39.54,歌词 英语,,0,0,0,,Ev{\c&H634C80&}eryth{\c&HAA7271&}ing that I long to {\c&H634C80&}be
+Dialogue: 0,0:25:36.67,0:25:39.54,歌词 中文,,0,0,0,,我{\c&H634C80&}渴{\c&H2C2322&}望{\c&HAA7271&}成为的一切
+Dialogue: 0,0:25:39.54,0:25:43.81,歌词 英语,,0,0,0,,{\c&H634C80&}You{\c&HAA7271&} and {\c&H634C80&}me{\c&HAA7271&}, there's more than {\c&H634C80&}meet{\c&HAA7271&}s the eye
+Dialogue: 0,0:25:39.54,0:25:43.81,歌词 中文,,0,0,0,,{\c&H634C80&}你{\c&HAA7271&}和{\c&H2C2322&}我 {\c&HAA7271&}我们的{\c&H2C2322&}羁绊{\c&HAA7271&}远超肉眼所见
+Dialogue: 0,0:25:43.81,0:25:46.52,歌词 英语,,0,0,0,,Ev{\c&H634C80&}eryth{\c&HAA7271&}ing that I long to {\c&H634C80&}be
+Dialogue: 0,0:25:43.81,0:25:46.52,歌词 中文,,0,0,0,,我渴{\c&H634C80&}望{\c&HAA7271&}成为的{\c&H2C2322&}一切
+Dialogue: 0,0:25:46.91,0:25:50.38,歌词 英语,,0,0,0,,As {\c&H634C80&}in yo{\c&HAA7271&}u and
+Dialogue: 0,0:25:46.91,0:25:50.38,歌词 中文,,0,0,0,,{\c&H2C2322&}正{\c&H634C80&}如{\c&HAA7271&}你与…
+Dialogue: 0,0:25:50.38,0:25:57.43,歌词 英语,,0,0,0,,I'm w{\c&H634C80&}anderin{\c&HAA7271&}g on {\c&H634C80&}the ci{\c&HAA7271&}ty harbor
+Dialogue: 0,0:25:50.38,0:25:57.43,歌词 中文,,0,0,0,,我在这座{\c&H634C80&}城{\c&H2C2322&}市{\c&HAA7271&}的港口{\c&H634C80&}徘徊
+Dialogue: 0,0:25:57.43,0:26:04.63,歌词 英语,,0,0,0,,Now {\c&H634C80&}possibly{\c&HAA7271&}, I will see you in {\c&H634C80&}Watson
+Dialogue: 0,0:25:57.43,0:26:04.63,歌词 中文,,0,0,0,,或许{\c&H634C80&}此刻{\c&HAA7271&} 能在{\c&H2C2322&}沃森区{\c&HAA7271&}与你{\c&H634C80&}重逢
+Dialogue: 0,0:26:04.63,0:26:11.63,歌词 英语,,0,0,0,,{\c&H634C80&}Run{\c&HAA7271&} away with me. {\c&H634C80&}You{\c&HAA7271&}'re my {\c&H634C80&}West Coast{\c&HAA7271&} problem
+Dialogue: 0,0:26:04.63,0:26:11.63,歌词 中文,,0,0,0,,和{\c&H2C2322&}我{\c&HAA7271&}一起{\c&H634C80&}逃离{\c&HAA7271&}吧  你是我{\c&H634C80&}西海岸{\c&HAA7271&}的{\c&H2C2322&}麻烦
+Dialogue: 0,0:26:11.63,0:26:19.02,歌词 英语,,0,0,0,,Now, f{\c&H634C80&}inal{\c&HAA7271&}ly We a{\c&H634C80&}re go{\c&HAA7271&}in' home
+Dialogue: 0,0:26:11.63,0:26:19.02,歌词 中文,,0,0,0,,现在 终{\c&H634C80&}于 我们要{\c&HAA7271&}回家了
+Dialogue: 0,0:26:19.02,0:26:23.62,歌词 英语,,0,0,0,,Once {\c&H634C80&}again{\c&HAA7271&}, I lose it all
+Dialogue: 0,0:26:19.02,0:26:23.62,歌词 中文,,0,0,0,,我{\c&H634C80&}再次 {\c&H2C2322&}失去{\c&HAA7271&}了一切
+Dialogue: 0,0:26:22.78,0:26:25.76,歌词 英语,,0,0,0,,{\an3}Once {\c&H634C80&}again{\c&HAA7271&}, I lose it
+Dialogue: 0,0:26:22.78,0:26:25.76,歌词 中文,,0,0,0,,{\an9}我{\c&H634C80&}再次 {\c&H2C2322&}失去{\c&HAA7271&}
+Dialogue: 0,0:26:25.76,0:26:29.52,歌词 英语,,0,0,0,,{\an3}Once {\c&H634C80&}again{\c&HAA7271&}, I lose it
+Dialogue: 0,0:26:25.76,0:26:29.52,歌词 中文,,0,0,0,,{\an9}我{\c&H634C80&}再次 {\c&H2C2322&}失去{\c&HAA7271&}
+Dialogue: 0,0:26:29.52,0:26:34.66,歌词 英语,,0,0,0,,{\an3}Once {\c&H634C80&}again{\c&HAA7271&}, I lose it {\c&H634C80&}all
+Dialogue: 0,0:26:29.52,0:26:34.66,歌词 中文,,0,0,0,,{\an9}我{\c&H634C80&}再次 {\c&H2C2322&}失去{\c&HAA7271&}了一切
+Dialogue: 0,0:26:34.66,0:26:37.66,歌词 英语,,0,0,0,,{\an3}Begging for this {\c&H634C80&}love
+Dialogue: 0,0:26:34.66,0:26:37.66,歌词 中文,,0,0,0,,{\an9}{\c&H2C2322&}在对这份{\c&H634C80&}爱{\c&H2C2322&}的{\c&HAA7271&}乞求{\c&H2C2322&}中
+Dialogue: 0,0:26:36.82,0:26:42.02,歌词 中文,,0,0,0,,我{\c&H634C80&}再次 {\c&H2C2322&}失去{\c&HAA7271&}了一切
+Dialogue: 0,0:26:36.82,0:26:42.02,歌词 英语,,0,0,0,,Once {\c&H634C80&}again{\c&HAA7271&}, I lose it {\c&H634C80&}all
