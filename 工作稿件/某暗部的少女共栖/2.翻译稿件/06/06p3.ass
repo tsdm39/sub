@@ -11,15 +11,6 @@ PlayResY: 1080
 LayoutResX: 1920
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Last Style Storage: op主歌词 中文
-Audio File: A:/a1/工作流06.tmp.mp4
-Video File: A:/a1/工作流06.tmp.mp4
-Video Zoom Percent: 0.625000
-Scroll Position: 229
-Active Line: 233
-Video Position: 33926
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans CN,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
