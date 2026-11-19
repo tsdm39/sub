@@ -17,10 +17,10 @@ Audio File: A:/a1/cp2/01代理.mp4
 Video File: A:/a1/cp2/01代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 865
-Active Line: 873
-Video Position: 38286
+Video Zoom Percent: 0.500000
+Scroll Position: 24
+Active Line: 27
+Video Position: 1068
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,6 +32,8 @@ Style: 注释,梦源黑体 SC W20,40,&H00F5F5F5,&H000000FF,&H00252525,&H00000000
 Style: 场面文本,梦源宋体 CN,50,&H00F5F5F5,&H000000FF,&H00252525,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: 歌词 英语,Dream Han Sans J W20,46,&H00AA7271,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,25,25,30,1
 Style: 歌词 中文,Dream Han Sans HC W20,46,&H00AA7271,&H000000FF,&H00AA7271,&H00000000,0,0,0,0,100,100,0,0,1,0.8,0.05,7,25,25,15,1
+Style: OP 英语,Agency FB,55,&H00C9FE35,&HFFFFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,25,25,10,1
+Style: OP 中文,方正姚体,55,&H00C9FE35,&HFF0000FF,&H00AA7271,&H00000000,0,0,0,0,100,100,0,0,1,0,0,9,25,25,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -65,6 +67,16 @@ Dialogue: 0,0:00:44.54,0:00:48.05,对白 日语,,0,0,0,,偉そうに お前は�
 Dialogue: 1,0:00:44.54,0:00:48.05,对白 中文,,0,0,0,,说得这么厉害 难不成你看过吗
 Dialogue: 0,0:00:48.13,0:00:50.09,对白 日语,,0,0,0,,いや… ないけどさ
 Dialogue: 1,0:00:48.13,0:00:50.09,对白 中文,,0,0,0,,呃… 那倒没有
+Dialogue: 0,0:02:00.93,0:02:03.97,OP 英语,,0,0,0,,10:15 on the Saturday night
+Dialogue: 0,0:02:05.31,0:02:10.32,OP 英语,,0,0,0,,{\c&H85F929&}And the tap drips under the strip light
+Dialogue: 0,0:02:12.35,0:02:15.61,OP 英语,,0,0,0,,And I'm sitting in the kitchen sink
+Dialogue: 0,0:02:18.10,0:02:19.82,OP 英语,,0,0,0,,{\c&HFFFF62&}And the tap drips
+Dialogue: 0,0:02:19.50,0:02:22.96,OP 英语,,0,0,0,,{\an2\k35\c&HFFFF62&}drip {\k35}drip {\k35}drip {\k35}drip {\k36}drip {\k35}drip {\k36}drip {\k35}drip {\k36}drip {\k28}drip
+Dialogue: 1,0:02:00.93,0:02:03.97,OP 中文,,0,0,0,,星期六夜里 十点十五分
+Dialogue: 1,0:02:05.31,0:02:10.32,OP 中文,,0,0,0,,{\c&H85F929&}长条灯管下 水龙头滴着水
+Dialogue: 1,0:02:12.35,0:02:15.61,OP 中文,,0,0,0,,而我枯坐在厨房的水槽里
+Dialogue: 1,0:02:18.10,0:02:19.82,OP 中文,,0,0,0,,{\c&HFFFF62&}水滴不断落下
+Dialogue: 2,0:02:19.50,0:02:22.96,OP 中文,,0,0,0,,{\an8\k35\c&HFFFF62&}滴 {\k35}答 {\k35}滴 {\k35}答 {\k36}滴 {\k35}答 {\k36}滴 {\k35}答 {\k36}滴 {\k28}答
 Dialogue: 0,0:02:49.17,0:02:51.96,对白 日语,,0,0,0,,お前 ここの人間じゃないな
 Dialogue: 1,0:02:49.17,0:02:51.96,对白 中文,,0,0,0,,你不是这里的人吧
 Dialogue: 0,0:02:52.05,0:02:53.42,对白 日语,,0,0,0,,うぐっ
@@ -874,7 +886,7 @@ Dialogue: 1,0:24:17.21,0:24:19.12,场面文本,,0,0,0,,{\pos(1132,443)}「来电
 Dialogue: 0,0:24:31.22,0:24:32.14,对白 日语,,0,0,0,,アヴィダ！
 Dialogue: 1,0:24:31.22,0:24:32.14,对白 中文,,0,0,0,,阿维达！
 Comment: 0,0:25:14.42,0:25:22.36,歌词 英语,,0,0,0,,ED START
-Dialogue: 0,0:25:22.36,0:25:25.01,歌词 英语,,0,0,0,,Didn't mean to {\c&H634C80&}sound {\c&HAA7271&}arrogant 
+Dialogue: 0,0:25:22.36,0:25:25.01,歌词 英语,,0,0,0,,Didn't mean to {\c&H634C80&}sound {\c&HAA7271&}arrogant
 Dialogue: 0,0:25:22.36,0:25:25.01,歌词 中文,,0,0,0,,我无意显得{\c&H2C2322&}如此{\c&HAA7271&}傲慢
 Dialogue: 0,0:25:25.01,0:25:29.42,歌词 英语,,0,0,0,,S{\c&H634C80&}udden{\c&HAA7271&}ly, we don't {\c&H634C80&}feel{\c&HAA7271&} the same
 Dialogue: 0,0:25:25.01,0:25:29.42,歌词 中文,,0,0,0,,只是{\c&H634C80&}恍然{\c&HAA7271&}间 你{\c&H2C2322&}我{\c&HAA7271&}已不再{\c&H634C80&}心{\c&H2C2322&}意{\c&HAA7271&}相通
