@@ -17,10 +17,10 @@ Audio File: A:/a1/cp2/01代理.mp4
 Video File: A:/a1/cp2/01代理.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 24
-Active Line: 27
-Video Position: 1068
+Video Zoom Percent: 0.750000
+Scroll Position: 26
+Active Line: 34
+Video Position: 3427
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,12 +71,12 @@ Dialogue: 0,0:02:00.93,0:02:03.97,OP 英语,,0,0,0,,10:15 on the Saturday night
 Dialogue: 0,0:02:05.31,0:02:10.32,OP 英语,,0,0,0,,{\c&H85F929&}And the tap drips under the strip light
 Dialogue: 0,0:02:12.35,0:02:15.61,OP 英语,,0,0,0,,And I'm sitting in the kitchen sink
 Dialogue: 0,0:02:18.10,0:02:19.82,OP 英语,,0,0,0,,{\c&HFFFF62&}And the tap drips
-Dialogue: 0,0:02:19.50,0:02:22.96,OP 英语,,0,0,0,,{\an2\k35\c&HFFFF62&}drip {\k35}drip {\k35}drip {\k35}drip {\k36}drip {\k35}drip {\k36}drip {\k35}drip {\k36}drip {\k28}drip
+Dialogue: 0,0:02:19.50,0:02:22.96,OP 英语,,0,0,0,,{\an2\k35\c&HFFFF62&}drip {\k35\fs40}drip {\k35\fs55}drip {\k35\fs40}drip {\k36\fs55}drip {\k35\fs40}drip {\k36\fs55}drip {\k35\fs40}drip {\k36\fs55}drip {\k28\fs40}drip
 Dialogue: 1,0:02:00.93,0:02:03.97,OP 中文,,0,0,0,,星期六夜里 十点十五分
 Dialogue: 1,0:02:05.31,0:02:10.32,OP 中文,,0,0,0,,{\c&H85F929&}长条灯管下 水龙头滴着水
 Dialogue: 1,0:02:12.35,0:02:15.61,OP 中文,,0,0,0,,而我枯坐在厨房的水槽里
 Dialogue: 1,0:02:18.10,0:02:19.82,OP 中文,,0,0,0,,{\c&HFFFF62&}水滴不断落下
-Dialogue: 2,0:02:19.50,0:02:22.96,OP 中文,,0,0,0,,{\an8\k35\c&HFFFF62&}滴 {\k35}答 {\k35}滴 {\k35}答 {\k36}滴 {\k35}答 {\k36}滴 {\k35}答 {\k36}滴 {\k28}答
+Dialogue: 2,0:02:19.50,0:02:22.96,OP 中文,,0,0,0,,{\an8\k35\c&HFFFF62&}滴 {\k35\fs40}答 {\k35\fs55}滴 {\k35\fs40}答 {\k36\fs55}滴 {\k35\fs40}答 {\k36\fs55}滴 {\k35\fs40}答 {\k36\fs55}滴 {\k28\fs40}答
 Dialogue: 0,0:02:49.17,0:02:51.96,对白 日语,,0,0,0,,お前 ここの人間じゃないな
 Dialogue: 1,0:02:49.17,0:02:51.96,对白 中文,,0,0,0,,你不是这里的人吧
 Dialogue: 0,0:02:52.05,0:02:53.42,对白 日语,,0,0,0,,うぐっ
